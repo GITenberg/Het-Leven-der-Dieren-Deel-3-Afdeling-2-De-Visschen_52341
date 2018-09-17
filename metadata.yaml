@@ -1,5 +1,8 @@
 _repo: Het-Leven-der-Dieren-Deel-3-Afdeling-2-De-Visschen_52341
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52341-h/images/new-cover-tn.jpg
 creator:
   author:
     agent_name: Brehm, Alfred Edmund
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6874
     wikipedia: http://en.wikipedia.org/wiki/Alfred_Brehm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52341#Het-Leven-der-Dieren-Deel-3-Afdeling-2-De-Visschen
 gutenberg_issued: '2016-06-15'
 gutenberg_type: Text
 identifiers:
